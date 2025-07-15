@@ -28,7 +28,7 @@ A free and open platform for threat hunting, network security monitoring, and lo
 * https://securityonionsolutions.com/training#free-training
 
 ### Wazuh
-* Unified XDR and SIEM protection for endpoints and cloud workloads.
+Unified XDR and SIEM protection for endpoints and cloud workloads.
 * https://wazuh.com
 * https://youtu.be/dwr-4CXtOso?si=wUWQi-6dvUyo6Kt5
 * https://youtu.be/nSOqU1iX5oQ?si=j_5NJ8TePdBN38SH
@@ -46,7 +46,7 @@ Graylog Open is a self-managed, SSPL-licensed centralized log management solutio
 * https://youtu.be/rDSjD_IBdy8?si=0Bk9dRdsjbBO__UL
 
 ### Elastic Stack -> OpenSearch
-* OpenSearch is an open-source, enterprise-grade search and observability suite that brings order to unstructured data at scale.
+OpenSearch is an open-source, enterprise-grade search and observability suite that brings order to unstructured data at scale.
 * https://opensearch.org
 * https://opensearch.org/platform/security-analytics/
 * https://docs.opensearch.org/docs/latest/security-analytics/
@@ -83,12 +83,15 @@ Espy collects network traffic from Windows systems regardless of geographical lo
 
 ### Canary Tokens
 Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves.
-
-### HoneyBadger
+* https://docs.canarytokens.org/guide/#what-are-canarytokens
+* https://canarytokens.org/nest/
+* https://youtu.be/K_TagJ4iRZU?si=j1wMo1BFKPM3oErK
 
 ### Active Defense Harbinger Distribution (ADHD)
 
 ### MITRE Engage
+MITRE Engage is a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
+
 
 ## Endpoint Security Protection Analysis
 
