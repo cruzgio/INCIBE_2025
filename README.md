@@ -115,12 +115,31 @@ OpenEDR is an open-source endpoint detection and response platform that provides
 * https://youtu.be/MI5DMKuxhH0?si=NJO4iFzPWPR1E453
 
 ### OSSEC
+OSSEC Community is the most basic version of the tool for hobbyists and do-it-yourselfers. You can tailor the free rules through OSSEC’s configuration options, adding custom alert rules and writing scripts to take action when alerts occur. 
+* https://www.ossec.net/ossec-downloads/
+* https://youtu.be/7c8xowHz0Ko?si=Li3Lz8On7698nkYV
 
 ## User and Entity Behavior Analytics (UEBA)
 
 ### Logon Tracer
+LogonTracer is a tool to investigate malicious logon by visualizing and analyzing Windows active directory event logs.
+* https://github.com/JPCERTCC/LogonTracer
+* https://github.com/jpcertcc/logontracer/wiki
+* https://youtu.be/aX-vTd7-moY?si=-cWdvDs9OnW1GQel
 
 ### OpenUBA
+An open source user behavior analytics platform powered by the scientific computing ecosystem
+* https://github.com/GACWR/OpenUBA
+* https://openuba.org
 
 ### Hayasuba
+Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
+* https://github.com/Yamato-Security/hayabusa
+* https://youtu.be/HXNAnxADRGE?si=p7plzmfOl1TgLmFW
+
+## Endpoint Analysis
+
+### Incident Response Cheat Sheets
+SANS provides various IR cheat sheets.
+* https://www.sans.org/posters/?focus-area=digital-forensics
   
