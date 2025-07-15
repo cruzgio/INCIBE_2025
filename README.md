@@ -1,4 +1,4 @@
-# INCIBE 2025 Incidet Response Tools
+# INCIBE 2025 Incident Response Tools
 
 ## Server Analysis
 
@@ -8,7 +8,7 @@ PowerShell Module for Threat Hunting via Windows Event Logs
 * https://youtu.be/G8XjSO_eshc?si=ifAX8PQS5Q80Xl2_
 
 ### Velociraptor
-Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
+Velociraptor is a tool for collecting host-based state information using The Velociraptor Query Language (VQL) queries
 * https://docs.velociraptor.app
 * https://github.com/Velocidex/velociraptor
 * https://docs.velociraptor.app/training/
@@ -99,7 +99,7 @@ A suite of tools encompassing the active defense theme.
 
 ### MITRE Engage
 MITRE Engage is a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
-
+* https://engage.mitre.org
 
 ## Endpoint Security Protection Analysis
 
@@ -109,6 +109,10 @@ SIEM and endpoint security solution from Elastic.
 * https://www.elastic.co/blog/continued-leadership-in-open-and-transparent-security
 
 ### OpenEDR
+OpenEDR is an open-source endpoint detection and response platform that provides analytic detection with MITRE ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
+* https://www.openedr.com
+* https://github.com/ComodoSecurity/openedr
+* https://youtu.be/MI5DMKuxhH0?si=NJO4iFzPWPR1E453
 
 ### OSSEC
 
