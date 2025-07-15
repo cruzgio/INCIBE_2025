@@ -174,8 +174,20 @@ Hawk is a web interface for Pacemaker HA clusters. Use it to configure, manage, 
 ### Permissions Audit
 
 ## BloodHoud
+BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment.
+* https://github.com/SpecterOps/BloodHound
+* https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart
+* https://bloodhound.specterops.io/home
+* https://youtu.be/Iw1KjpzlvaI?si=rghIaI4u7zq-X-BB
 
 ## ScoutSuite
+Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+* https://github.com/nccgroup/ScoutSuite
+* https://youtu.be/G3MDJSMvnRo?si=lL5_B_H6YVtD9IUo
 
 ## Prowler
-  
+Prowler is an open-source security tool designed to assess and enforce security best practices across AWS, Azure, Google Cloud, and Kubernetes. It supports tasks such as security audits, incident response, continuous monitoring, system hardening, forensic readiness, and remediation processes.
+* https://github.com/prowler-cloud/prowler
+* https://prowler.com
+* https://docs.prowler.com/projects/prowler-open-source/en/latest/#prowler-app-installation
+* https://youtu.be/FpdqG3Cy6ow?si=DFczNYzL6xzPTfwD
