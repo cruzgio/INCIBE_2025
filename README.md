@@ -87,7 +87,15 @@ Canarytokens is a free tool that helps you discover you've been breached by havi
 * https://canarytokens.org/nest/
 * https://youtu.be/K_TagJ4iRZU?si=j1wMo1BFKPM3oErK
 
+### HoneyBadger
+HoneyBadger is a framework for targeted geolocation. While honeypots are traditionally used to passively detect malicious actors, HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located.
+* https://github.com/adhdproject/honeybadger
+* https://youtu.be/7LXfBSuaFFE?si=hU-AKqXA5KvetuDi
+
 ### Active Defense Harbinger Distribution (ADHD)
+A suite of tools encompassing the active defense theme.
+* https://github.com/adhdproject
+* https://adhdproject.github.io/#!index.md
 
 ### MITRE Engage
 MITRE Engage is a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
