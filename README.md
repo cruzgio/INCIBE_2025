@@ -142,4 +142,40 @@ Hayabusa is a Windows event log fast forensics timeline generator and threat hun
 ### Incident Response Cheat Sheets
 SANS provides various IR cheat sheets.
 * https://www.sans.org/posters/?focus-area=digital-forensics
+
+### osquery
+Osquery uses basic SQL commands to leverage a relational data-model to describe a device.
+* https://osquery.io
+* https://osquery.readthedocs.io/en/stable/
+* https://github.com/osquery/osquery
+* https://youtu.be/YpmGZseJbJY?si=BPZSCAKKr3eL-Alg
+
+## Memory Analysis
+
+### Volatility 
+The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples.
+* https://volatilityfoundation.org
+* https://github.com/volatilityfoundation/volatility
+* https://youtu.be/2S_pi9qnIo8?si=4Q5k0eAhjBhR_GvO
+
+## Cloud Event Log Analysis
+
+### Falco
+Falco is a cloud native security tool that provides runtime security across hosts, containers, Kubernetes, and cloud environments.
+* https://falco.org
+* https://falco.org/docs/
+* https://youtu.be/0tBSKRvH3xo?si=YfHfboivXtczwf8N
+
+### Hawk
+Hawk is a web interface for Pacemaker HA clusters. Use it to configure, manage, and monitor just about any kind of application running in Linux as a cluster resource.
+* https://github.com/ClusterLabs/hawk
+* https://hawk-ui.github.io
+
+### Permissions Audit
+
+## BloodHoud
+
+## ScoutSuite
+
+## Prowler
   
