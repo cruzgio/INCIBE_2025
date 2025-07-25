@@ -8,7 +8,7 @@ PowerShell Module for Threat Hunting via Windows Event Logs
 * https://youtu.be/G8XjSO_eshc?si=ifAX8PQS5Q80Xl2_
 
 ### Velociraptor
-Velociraptor is a tool for collecting host-based state information using The Velociraptor Query Language (VQL) queries
+Velociraptor is a tool for collecting host-based state information using the Velociraptor Query Language (VQL) queries
 * https://docs.velociraptor.app
 * https://github.com/Velocidex/velociraptor
 * https://docs.velociraptor.app/training/
@@ -122,7 +122,7 @@ OSSEC Community is the most basic version of the tool for hobbyists and do-it-yo
 ## User and Entity Behavior Analytics (UEBA)
 
 ### Logon Tracer
-LogonTracer is a tool to investigate malicious logon by visualizing and analyzing Windows active directory event logs.
+LogonTracer is a tool for investigating malicious logons by visualizing and analyzing Windows Active Directory event logs.
 * https://github.com/JPCERTCC/LogonTracer
 * https://github.com/jpcertcc/logontracer/wiki
 * https://youtu.be/aX-vTd7-moY?si=-cWdvDs9OnW1GQel
@@ -153,7 +153,7 @@ Osquery uses basic SQL commands to leverage a relational data-model to describe 
 ## Memory Analysis
 
 ### Volatility 
-The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples.
+The Volatility Framework is a comprehensive, open-source collection of tools, implemented in Python under the GNU General Public License, for extracting digital artifacts from volatile memory (RAM) samples.
 * https://volatilityfoundation.org
 * https://github.com/volatilityfoundation/volatility
 * https://youtu.be/2S_pi9qnIo8?si=4Q5k0eAhjBhR_GvO
@@ -181,7 +181,7 @@ BloodHound uses graph theory to reveal the hidden and often unintended relations
 * https://youtu.be/Iw1KjpzlvaI?si=rghIaI4u7zq-X-BB
 
 ## ScoutSuite
-Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+Scout Suite is an open source multi-cloud security-auditing tool that enables security posture assessment of cloud environments.
 * https://github.com/nccgroup/ScoutSuite
 * https://youtu.be/G3MDJSMvnRo?si=lL5_B_H6YVtD9IUo
 
